@@ -193,3 +193,14 @@
 2022-03-11T01:00:27.564Z [my-bank-api] info:  API Started
 2022-03-11T01:00:39.760Z [my-bank-api] info:  PATCH /account - {"id":7,"balance":789456}
 2022-03-11T01:00:43.340Z [my-bank-api] error:  GET /account - data is not defined
+2022-03-12T14:53:59.347Z [my-bank-api] info:  API Started
+2022-03-12T14:54:15.692Z [my-bank-api] error:  GET /account - data is not defined
+2022-03-12T14:54:19.093Z [my-bank-api] error:  GET /account - Registro não encontrado.
+2022-03-12T14:54:27.394Z [my-bank-api] info:  GET /account - 8
+2022-03-12T14:57:21.856Z [my-bank-api] info:  API Started
+2022-03-12T15:00:42.138Z [my-bank-api] info:  API Started
+2022-03-12T15:19:51.516Z [my-bank-api] info:  API Started
+2022-03-12T15:21:50.252Z [my-bank-api] info:  API Started
+2022-03-12T15:29:49.121Z [my-bank-api] info:  API Started
+2022-03-12T15:30:24.926Z [my-bank-api] info:  API Started
+2022-03-12T15:30:30.495Z [my-bank-api] info:  API Started
