@@ -1,0 +1,195 @@
+2022-03-05T01:16:48.300Z [my-bank-api] info:  API Started
+2022-03-05T01:17:02.781Z [my-bank-api] error:  GET /account - account is not defined
+2022-03-05T01:17:08.943Z [my-bank-api] info:  POST /account - {"id":1,"name":"Marcelo","balance":4000.15}
+2022-03-05T01:17:16.409Z [my-bank-api] info:  GET /account - 1
+2022-03-05T01:17:34.285Z [my-bank-api] info:  PUT /account - {"id":1,"name":"Marcelo","balance":321.15}
+2022-03-05T01:17:47.439Z [my-bank-api] info:  PATCH /account - {"id":1,"balance":100}
+2022-03-05T01:17:56.402Z [my-bank-api] info:  DELETE /account
+2022-03-05T01:20:07.451Z [my-bank-api] info:  POST /account - {"id":2,"name":"Marcelo","balance":4000.15}
+2022-03-05T01:22:03.665Z [my-bank-api] info:  API Started
+2022-03-05T01:23:58.429Z [my-bank-api] info:  API Started
+2022-03-05T01:24:11.764Z [my-bank-api] error:  POST /account - Name e Balance são obrigatórios
+2022-03-05T01:24:21.902Z [my-bank-api] error:  POST /account - Name e Balance são obrigatórios
+2022-03-05T01:24:33.464Z [my-bank-api] info:  POST /account - {"id":3,"name":"Marcelo","balance":4000.15}
+2022-03-05T01:26:53.162Z [my-bank-api] info:  API Started
+2022-03-05T01:27:37.901Z [my-bank-api] info:  API Started
+2022-03-05T01:28:23.809Z [my-bank-api] info:  API Started
+2022-03-05T01:29:02.903Z [my-bank-api] info:  API Started
+2022-03-05T01:30:32.551Z [my-bank-api] info:  API Started
+2022-03-05T01:30:43.986Z [my-bank-api] info:  API Started
+2022-03-05T01:31:47.229Z [my-bank-api] info:  API Started
+2022-03-05T01:32:04.476Z [my-bank-api] info:  API Started
+2022-03-05T01:32:27.600Z [my-bank-api] info:  API Started
+2022-03-05T01:32:35.595Z [my-bank-api] info:  API Started
+2022-03-05T01:33:05.497Z [my-bank-api] info:  API Started
+2022-03-05T01:33:36.955Z [my-bank-api] info:  API Started
+2022-03-05T01:34:21.172Z [my-bank-api] info:  API Started
+2022-03-05T01:36:58.601Z [my-bank-api] info:  API Started and File Created.
+2022-03-05T01:39:08.412Z [my-bank-api] info:  POST /account - {"id":1,"name":"Marcelo","balance":4000.15}
+2022-03-05T01:40:07.473Z [my-bank-api] error:  POST /account - Name e Balance são obrigatórios
+2022-03-05T01:40:36.132Z [my-bank-api] error:  POST /account - Name e Balance são obrigatórios
+2022-03-05T01:40:49.466Z [my-bank-api] info:  POST /account - {"id":2,"name":"Ramos","balance":51}
+2022-03-05T01:40:53.012Z [my-bank-api] error:  GET /account - account is not defined
+2022-03-05T01:41:03.927Z [my-bank-api] info:  PUT /account - {"id":1,"name":"Marcelo","balance":321.15}
+2022-03-05T01:41:09.037Z [my-bank-api] error:  PUT /account - Id, Name e Balance são obrigatórios
+2022-03-05T01:46:08.639Z [my-bank-api] info:  API Started
+2022-03-05T01:46:34.778Z [my-bank-api] info:  API Started
+2022-03-05T01:48:08.572Z [my-bank-api] info:  API Started
+2022-03-05T01:50:24.633Z [my-bank-api] info:  PUT /account - {"id":1,"name":"Marcelo","balance":321.15}
+2022-03-05T01:56:57.148Z [my-bank-api] error:  GET /account - account is not defined
+2022-03-05T01:56:58.377Z [my-bank-api] error:  GET /account - account is not defined
+2022-03-05T01:56:59.016Z [my-bank-api] error:  GET /account - account is not defined
+2022-03-05T01:56:59.287Z [my-bank-api] error:  GET /account - account is not defined
+2022-03-05T01:57:17.170Z [my-bank-api] info:  API Started
+2022-03-05T01:57:20.898Z [my-bank-api] error:  GET /account - account is not defined
+2022-03-05T01:59:17.124Z [my-bank-api] info:  API Started
+2022-03-05T01:59:22.213Z [my-bank-api] info:  GET /account - {"accounts":[{"id":1,"name":"Marcelo","balance":321.15},{"id":2,"name":"Ramos","balance":51}]}
+2022-03-05T02:01:50.370Z [my-bank-api] info:  GET /account - {"accounts":[{"id":1,"name":"Marcelo","balance":321.15},{"id":2,"name":"Ramos","balance":51}]}
+2022-03-05T02:06:17.732Z [my-bank-api] info:  GET /account - {"accounts":[{"id":1,"name":"Marcelo","balance":321.15},{"id":2,"name":"Ramos","balance":51}]}
+2022-03-05T02:06:41.661Z [my-bank-api] info:  GET /account - {"accounts":[{"id":1,"name":"Marcelo","balance":321.15},{"id":2,"name":"Ramos","balance":51}]}
+2022-03-05T02:08:21.350Z [my-bank-api] info:  API Started
+2022-03-05T02:08:25.537Z [my-bank-api] info:  GET /account - {"accounts":[{"id":1,"name":"Marcelo","balance":321.15},{"id":2,"name":"Ramos","balance":51}]}
+2022-03-05T02:09:29.111Z [my-bank-api] info:  API Started
+2022-03-05T02:09:58.542Z [my-bank-api] info:  API Started
+2022-03-05T02:53:40.330Z [my-bank-api] info:  API Started
+2022-03-05T02:54:05.473Z [my-bank-api] info:  GET /account - {"accounts":[{"id":1,"name":"Marcelo","balance":321.15},{"id":2,"name":"Ramos","balance":51}]}
+2022-03-08T00:41:20.102Z [my-bank-api] info:  API Started
+2022-03-08T00:41:38.591Z [my-bank-api] info:  POST /account - {"id":3,"name":"Teste","balance":51}
+2022-03-08T00:41:42.523Z [my-bank-api] info:  GET /account - {"accounts":[{"id":1,"name":"Marcelo","balance":321.15},{"id":2,"name":"Ramos","balance":51},{"id":3,"name":"Teste","balance":51}]}
+2022-03-08T00:43:02.489Z [my-bank-api] info:  API Started
+2022-03-08T00:43:09.917Z [my-bank-api] info:  API Started
+2022-03-08T00:43:14.008Z [my-bank-api] info:  API Started
+2022-03-08T00:43:56.852Z [my-bank-api] info:  API Started
+2022-03-08T00:44:44.267Z [my-bank-api] info:  API Started
+2022-03-08T00:44:49.516Z [my-bank-api] info:  API Started
+2022-03-08T00:44:58.567Z [my-bank-api] info:  API Started
+2022-03-08T00:45:08.679Z [my-bank-api] info:  API Started
+2022-03-08T00:45:28.457Z [my-bank-api] info:  API Started
+2022-03-08T00:45:58.165Z [my-bank-api] info:  API Started
+2022-03-08T00:46:22.105Z [my-bank-api] info:  API Started
+2022-03-08T00:46:40.464Z [my-bank-api] info:  API Started
+2022-03-08T00:46:48.434Z [my-bank-api] info:  API Started
+2022-03-08T00:47:15.001Z [my-bank-api] info:  API Started
+2022-03-08T00:47:37.750Z [my-bank-api] info:  API Started
+2022-03-08T00:47:46.548Z [my-bank-api] info:  API Started
+2022-03-08T00:48:58.972Z [my-bank-api] info:  API Started
+2022-03-08T00:49:54.609Z [my-bank-api] info:  API Started
+2022-03-08T00:50:17.496Z [my-bank-api] info:  API Started
+2022-03-08T00:50:22.278Z [my-bank-api] info:  GET /account - {"accounts":[{"id":1,"name":"Marcelo","balance":321.15},{"id":2,"name":"Ramos","balance":51},{"id":3,"name":"Teste","balance":51}]}
+2022-03-08T00:50:30.268Z [my-bank-api] info:  DELETE /account
+2022-03-08T00:50:33.249Z [my-bank-api] info:  GET /account - {"accounts":[{"id":1,"name":"Marcelo","balance":321.15},{"id":2,"name":"Ramos","balance":51},{"id":3,"name":"Teste","balance":51}]}
+2022-03-08T00:50:44.535Z [my-bank-api] info:  DELETE /account
+2022-03-08T00:50:47.846Z [my-bank-api] info:  GET /account - {"accounts":[{"id":1,"name":"Marcelo","balance":321.15},{"id":2,"name":"Ramos","balance":51}]}
+2022-03-08T00:52:57.371Z [my-bank-api] info:  API Started
+2022-03-08T00:53:50.151Z [my-bank-api] info:  API Started
+2022-03-08T00:54:27.246Z [my-bank-api] info:  API Started
+2022-03-08T00:55:34.975Z [my-bank-api] info:  API Started
+2022-03-08T00:55:52.604Z [my-bank-api] info:  API Started
+2022-03-08T00:56:59.012Z [my-bank-api] info:  API Started
+2022-03-08T00:57:09.963Z [my-bank-api] error:  POST /account - readFile is not defined
+2022-03-08T00:57:32.314Z [my-bank-api] info:  API Started
+2022-03-08T00:57:39.583Z [my-bank-api] info:  API Started
+2022-03-08T00:57:45.143Z [my-bank-api] info:  POST /account - {"id":4,"name":"Teste2","balance":512}
+2022-03-08T00:57:49.676Z [my-bank-api] info:  GET /account - {"accounts":[{"id":1,"name":"Marcelo","balance":321.15},{"id":2,"name":"Ramos","balance":51},{"id":4,"name":"Teste2","balance":512}]}
+2022-03-08T00:58:46.390Z [my-bank-api] info:  API Started
+2022-03-08T00:59:25.587Z [my-bank-api] info:  API Started
+2022-03-08T01:00:00.542Z [my-bank-api] info:  API Started
+2022-03-08T01:01:40.984Z [my-bank-api] info:  API Started
+2022-03-08T01:02:10.422Z [my-bank-api] info:  API Started
+2022-03-08T01:04:41.090Z [my-bank-api] info:  API Started
+2022-03-08T01:05:43.010Z [my-bank-api] info:  API Started
+2022-03-10T20:42:51.171Z [my-bank-api] info:  API Started
+2022-03-10T20:43:02.516Z [my-bank-api] error:  GET /account - data is not defined
+2022-03-10T20:43:12.615Z [my-bank-api] info:  GET /account - 1
+2022-03-10T20:43:28.531Z [my-bank-api] info:  API Started
+2022-03-10T20:43:30.884Z [my-bank-api] error:  GET /account - data is not defined
+2022-03-10T21:35:27.052Z [my-bank-api] info:  API Started
+2022-03-10T21:35:34.773Z [my-bank-api] error:  GET /account - data is not defined
+2022-03-10T21:36:01.250Z [my-bank-api] info:  GET /account - 4
+2022-03-10T21:36:15.435Z [my-bank-api] info:  POST /account - {"id":5,"name":"Teste2","balance":123}
+2022-03-10T21:36:27.286Z [my-bank-api] error:  GET /account - data is not defined
+2022-03-10T21:36:48.577Z [my-bank-api] info:  PUT /account - {"id":5,"name":"Teste3","balance":123}
+2022-03-10T21:36:52.464Z [my-bank-api] error:  GET /account - data is not defined
+2022-03-10T21:37:08.839Z [my-bank-api] info:  PATCH /account - {"id":5,"balance":123456}
+2022-03-10T21:37:12.330Z [my-bank-api] error:  GET /account - data is not defined
+2022-03-10T21:37:28.515Z [my-bank-api] info:  DELETE /account
+2022-03-10T21:37:32.367Z [my-bank-api] error:  GET /account - data is not defined
+2022-03-10T21:38:43.299Z [my-bank-api] info:  API Started
+2022-03-10T21:38:47.758Z [my-bank-api] error:  GET /account - data is not defined
+2022-03-10T21:39:08.218Z [my-bank-api] info:  POST /account - {"id":6,"name":"Teste2","balance":123}
+2022-03-10T21:39:12.668Z [my-bank-api] error:  GET /account - data is not defined
+2022-03-10T21:39:21.798Z [my-bank-api] info:  GET /account - 6
+2022-03-10T21:39:45.257Z [my-bank-api] info:  PUT /account - {"id":6,"name":"Teste3","balance":123}
+2022-03-10T21:39:51.361Z [my-bank-api] error:  GET /account - data is not defined
+2022-03-10T21:40:41.987Z [my-bank-api] info:  PATCH /account - {"id":6,"balance":123456}
+2022-03-10T21:40:46.448Z [my-bank-api] error:  GET /account - data is not defined
+2022-03-10T21:40:51.376Z [my-bank-api] info:  DELETE /account
+2022-03-10T21:40:54.707Z [my-bank-api] error:  GET /account - data is not defined
+2022-03-10T21:43:53.113Z [my-bank-api] info:  API Started
+2022-03-10T21:44:05.376Z [my-bank-api] info:  POST /account - {"id":7,"name":"Teste2","balance":123}
+2022-03-10T21:44:17.311Z [my-bank-api] error:  GET /account - data is not defined
+2022-03-10T21:45:52.499Z [my-bank-api] info:  API Started
+2022-03-10T21:46:12.162Z [my-bank-api] info:  PATCH /account - {"id":1,"balance":123456}
+2022-03-10T21:46:51.228Z [my-bank-api] info:  PATCH /account - {"id":1,"balance":789456}
+2022-03-10T21:47:11.223Z [my-bank-api] info:  API Started
+2022-03-10T21:48:33.947Z [my-bank-api] info:  API Started
+2022-03-10T21:49:12.384Z [my-bank-api] info:  PATCH /account - {"id":1,"balance":789456}
+2022-03-10T21:49:33.488Z [my-bank-api] info:  POST /account - {"id":8,"name":"Marcelo","balance":123}
+2022-03-10T21:49:37.637Z [my-bank-api] error:  GET /account - data is not defined
+2022-03-10T21:50:15.861Z [my-bank-api] info:  PUT /account - {"id":1,"name":"Marcelo Ramos","balance":123}
+2022-03-10T21:50:29.441Z [my-bank-api] error:  GET /account - data is not defined
+2022-03-10T21:51:10.783Z [my-bank-api] info:  PATCH /account - {"id":1,"balance":789456}
+2022-03-10T21:52:14.177Z [my-bank-api] info:  PUT /account - {"id":1,"name":"Marcelo Ramos","balance":123}
+2022-03-10T21:52:16.605Z [my-bank-api] error:  GET /account - data is not defined
+2022-03-10T21:52:29.410Z [my-bank-api] info:  PATCH /account - {"id":1,"balance":789456}
+2022-03-11T00:24:42.745Z [my-bank-api] info:  API Started
+2022-03-11T00:24:49.205Z [my-bank-api] error:  GET /account - data is not defined
+2022-03-11T00:25:12.623Z [my-bank-api] info:  PATCH /account - {"id":8,"balance":789456}
+2022-03-11T00:25:16.435Z [my-bank-api] error:  GET /account - data is not defined
+2022-03-11T00:27:11.876Z [my-bank-api] info:  API Started
+2022-03-11T00:27:17.228Z [my-bank-api] error:  GET /account - data is not defined
+2022-03-11T00:34:14.239Z [my-bank-api] info:  API Started
+2022-03-11T00:34:20.528Z [my-bank-api] error:  GET /account - data is not defined
+2022-03-11T00:35:48.576Z [my-bank-api] info:  API Started
+2022-03-11T00:36:25.917Z [my-bank-api] info:  API Started
+2022-03-11T00:36:56.351Z [my-bank-api] info:  API Started
+2022-03-11T00:37:48.246Z [my-bank-api] info:  API Started
+2022-03-11T00:38:36.027Z [my-bank-api] info:  API Started
+2022-03-11T00:39:08.449Z [my-bank-api] info:  API Started
+2022-03-11T00:39:14.431Z [my-bank-api] info:  API Started
+2022-03-11T00:39:30.214Z [my-bank-api] info:  API Started
+2022-03-11T00:39:54.168Z [my-bank-api] info:  API Started
+2022-03-11T00:40:02.579Z [my-bank-api] info:  API Started
+2022-03-11T00:40:47.115Z [my-bank-api] info:  API Started
+2022-03-11T00:40:51.763Z [my-bank-api] info:  API Started
+2022-03-11T00:41:03.819Z [my-bank-api] info:  API Started
+2022-03-11T00:41:17.344Z [my-bank-api] error:  DELETE /account - id is not defined
+2022-03-11T00:41:44.213Z [my-bank-api] info:  API Started
+2022-03-11T00:41:46.988Z [my-bank-api] error:  DELETE /account - Assignment to constant variable.
+2022-03-11T00:44:32.499Z [my-bank-api] info:  API Started
+2022-03-11T00:45:10.362Z [my-bank-api] info:  DELETE /account
+2022-03-11T00:45:15.640Z [my-bank-api] error:  GET /account - data is not defined
+2022-03-11T00:48:04.859Z [my-bank-api] info:  API Started
+2022-03-11T00:48:31.481Z [my-bank-api] info:  API Started
+2022-03-11T00:49:09.494Z [my-bank-api] info:  API Started
+2022-03-11T00:49:13.600Z [my-bank-api] info:  API Started
+2022-03-11T00:49:29.503Z [my-bank-api] info:  API Started
+2022-03-11T00:49:48.399Z [my-bank-api] info:  API Started
+2022-03-11T00:51:02.716Z [my-bank-api] info:  API Started
+2022-03-11T00:51:31.191Z [my-bank-api] info:  API Started
+2022-03-11T00:52:41.896Z [my-bank-api] info:  API Started
+2022-03-11T00:53:09.259Z [my-bank-api] info:  API Started
+2022-03-11T00:53:34.885Z [my-bank-api] info:  API Started
+2022-03-11T00:55:07.923Z [my-bank-api] info:  API Started
+2022-03-11T00:56:22.923Z [my-bank-api] info:  API Started
+2022-03-11T00:56:53.312Z [my-bank-api] info:  API Started
+2022-03-11T00:57:20.715Z [my-bank-api] error:  GET /account - data is not defined
+2022-03-11T00:57:28.162Z [my-bank-api] error:  PATCH /account - AccountRepository.getAccountById is not a function
+2022-03-11T00:57:58.064Z [my-bank-api] info:  API Started
+2022-03-11T00:58:00.757Z [my-bank-api] info:  PATCH /account - {"id":7,"balance":789456}
+2022-03-11T00:58:07.198Z [my-bank-api] error:  GET /account - data is not defined
+2022-03-11T00:58:31.399Z [my-bank-api] info:  API Started
+2022-03-11T00:59:35.320Z [my-bank-api] error:  GET /account - data is not defined
+2022-03-11T01:00:27.564Z [my-bank-api] info:  API Started
+2022-03-11T01:00:39.760Z [my-bank-api] info:  PATCH /account - {"id":7,"balance":789456}
+2022-03-11T01:00:43.340Z [my-bank-api] error:  GET /account - data is not defined
